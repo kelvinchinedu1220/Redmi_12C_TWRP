@@ -1,4 +1,4 @@
-name: TWRP Builder
+name: PBRP-Builder
 
 on:
   workflow_dispatch:
