@@ -179,9 +179,6 @@ ENABLE_SCHEDBOOST := true
 # Log touch input
 TWRP_EVENT_LOGGING := true
 
-# Set the default language, if not english
-TW_DEFAULT_LANGUAGE := en-US
-
 # Battery
 TW_CUSTOM_BATTERY_PATH := /sys/class/power_supply/battery/capacity
 
